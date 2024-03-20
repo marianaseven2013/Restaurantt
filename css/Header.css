@@ -1,0 +1,98 @@
+
+
+
+
+
+
+.hamburguesa img{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 90px;
+    padding: 80px;
+    margin-top: -118px;
+}
+
+/* .hamburguesa img{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 90px;
+    padding: 80px;
+    margin-top: -118px;
+} */
+
+
+.Parasubir {
+    
+    position: absolute;
+    top: 100px;
+    color: white;
+    padding: 50px;
+    margin-top:  5rem;
+}
+
+.Raro {
+    width: 30rem;
+    padding: 20px;
+}
+    
+    .buruguers{
+        position: absolute;
+        top: 55.4rem;
+    }
+    .grid-1-1{
+        display: grid;
+        grid-template-columns: 10.8rem 26.7rem;
+    }
+    .grid-1-2{
+        border-radius: 0.5rem;
+        height: 10.8rem;
+    }
+    .grid-1-2 img{
+        width: 100%;
+        height: 100%;
+        border-radius: 0.5rem;
+        object-fit: cover;
+    }
+    .grid-1-3{
+        margin-left: 0.5rem;
+    
+    }
+    .grid-1-3 h1{
+        font-size: 1.4rem;
+    }
+    
+    .grid-1-3 p{
+        font-size: 1.2rem;
+    }
+    .precios{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .precios-1{
+        display: flex;
+        justify-content: start;
+        align-items: center;
+    }
+    .precios-1 h1{
+        font-size: 1.6rem;
+    }
+    .precios-2{
+        height: 2.5rem;
+        width: 4.5rem;
+        border-radius: 0.5rem;
+    }
+    .precios-2 img{
+        width: 100%;
+        height: 100%;
+        border-radius: 0.5rem;
+        object-fit: cover;
+    }
+    
+    .cuadritos2{
+        position: absolute;
+        top: 112.6rem;
+    
+    }
